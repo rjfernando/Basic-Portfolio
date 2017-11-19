@@ -2,11 +2,10 @@
 body {
     margin: 0;
     padding: 0;
-    overflow: hidden;
     line-height: 2;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
     background-image: url("../images/concrete-texture.png")
-    
+
 }
 
 .container {
@@ -20,7 +19,7 @@ body {
     color: #4aaaa5;
     font-family: Arial, Helvetica, sans-serif; 
     float: right;
-    padding: 0px;
+    padding-top: 15px;
     list-style: none;
     margin-right: 400px;
 
@@ -53,11 +52,12 @@ h1 {
     position: relative;
     margin: 0;
     margin-right: 68%;
-    margin-left: 176px;
+    margin-left: 170px;
     padding-right: 10px;
-    padding-bottom: 2px;
     padding-top: 5px;
     padding-left: 25px;
+    font-size: 33px;
+    font-weight: bold;
     background-color: #4aaaa5;
     color: #ffffff
 
@@ -65,13 +65,13 @@ h1 {
 
 
 .aboutme {
-    margin-top: 40px;
-    margin-right: 320px  ;
-    margin-left: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
     width: 650px;
     height: 700px;
+    margin-top: 40px;
+    margin-right: 300px  ;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 30px;
     background: #ffffff;
     border: 1px solid;
     border-color: #dddddd;       
@@ -108,8 +108,8 @@ h1 {
     width: 270;
     margin-top: 40px;
     margin-left: 0px;
-    margin-right: 300px;
-    padding-top: 0px;
+    margin-right: 290px;
+    padding-top: 20px;
     padding-left: 40px;
     padding-right: 40px;
     padding-bottom: 70px;
@@ -127,6 +127,8 @@ h1 {
 }
 
 h2 {
+    font-size: 26px;
+    font-weight: bold;
     color: #4aaaa5;
 }
 
@@ -170,14 +172,15 @@ a:focus {
 
 .main-section {
     width: 650px;
+    height: 690px;
     background: #ffffff;
     border: 1px solid;
     border-color: #cccccc;
     margin-top: 40px;
     margin-bottom: 10px;
-    height: 710px;
+    padding-top: 20px;
     padding-left: 30px;
-    padding-right: 30px;
+    padding-right: 20px;
     padding-bottom: 10px
 
    
@@ -185,35 +188,33 @@ a:focus {
 
 .box-one {
     margin: 0 auto;
-    padding: 30px 30px 10px 10px;
+    padding: 30px 30px 30px 10px;
     float: left;
-    
-
 }
 
 .box-two {
     margin: 0 auto;
-    padding: 30px 0px 10px 20px;
+    padding: 30px 0px 30px 20px;
     float: left;
 
 }
 
 .box-three {
     margin: 0 auto;
-    padding: 10px 30px 10px 10px;
+    padding: 30px 30px 30px 10px;
     float: left;
 
 }
 
 .box-four {
     margin: 0 auto;
-    padding: 10px 0px 10px 20px;
+    padding: 30px 0px 10px 20px;
     float: left;
 }
 
 .box-five {
     margin: 0 auto;
-    padding: 10px 30px 10px 10px;
+    padding: 30px 30px 80px 10px;
     float: left;
 }
 
@@ -239,9 +240,10 @@ a:focus {
     margin-top: 40px;
     margin-bottom: 40px;
     height: 660px;
+    padding-top: 20px;
     padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 30px
+    padding-right: 20px;
+    padding-bottom: 20px
     
       
 }
@@ -262,20 +264,18 @@ input, textarea {
 
 textarea {
     width: 630px;
-    height: 250px;
+    height: 300px;
 
 }
 
 input[type="submit"] {
     width: 80px;
     padding: 10px 5px 10px 5px;
+    margin-top: 15px;
     background: #777777;
     color: white;
     font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif
-
-    
-   
+    font-family: Arial, Helvetica, sans-serif;  
 }
 
 .footer-three {

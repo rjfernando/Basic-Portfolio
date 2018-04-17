@@ -10,9 +10,9 @@ Here is a link to my git hub pages to view project:  https://rjfernando.github.i
 
 # Build
 
-HTML
-CSS
-Media Queries
+1. HTML
+2. CSS
+3. Media Queries
 
 # Maintinance 
 

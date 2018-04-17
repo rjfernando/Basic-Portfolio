@@ -14,6 +14,6 @@ Here is a link to my git hub pages to view project:  https://rjfernando.github.i
 2. CSS
 3. Media Queries
 
-# Maintinance 
+# Maintenance 
 
 This would be all done by me and you can contact me through the links provided on the site.
